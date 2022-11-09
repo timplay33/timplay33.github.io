@@ -1,0 +1,3 @@
+#fb8122 accents
+#1d2228 background
+#e1e2e2 text
