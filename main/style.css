@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(60, 62, 71);;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#header{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    padding: 10px;
+    background-color: rgb(129, 129, 129);
+
+}
+.headline{
+    padding-left: 5%;
+}
+#content{
+    padding-top: 100px;
+    text-align: center;
+}
+#footer{
+    position: absolute;
+    width:100%;
+    left: 0%;
+    text-align: center;
+    padding:15px;
+    background-color: black;
+}
+.big-brake{
+    margin: 200%;
+}
